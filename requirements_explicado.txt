@@ -1,0 +1,27 @@
+# Librerías utilizadas en el proyecto 
+"Smart Dispatcher – Logistics Scheduler"
+
+pandas
+# Librería para manipular datos en tablas (DataFrames).
+# Se usa para leer, procesar y guardar información de rutas, 
+horarios y registros.
+
+gspread
+# Permite conectarse y manipular Google Sheets desde Python.
+# Se utiliza para leer rutas, registrar movimientos, 
+y actualizar hojas de cálculo compartidas.
+
+oauth2client
+# Se usa junto a gspread para autenticar mediante una cuenta 
+de servicio de Google.
+# Es necesaria para acceder de forma segura a Google Sheets 
+con permisos.
+
+geopy
+# Permite calcular distancias geográficas entre coordenadas GPS.
+# Se usa para simular movimientos de camiones, calcular distancias 
+recorridas y analizar rutas.
+
+# Recomendación: mantener estas librerías actualizadas usando pip.
+# Instalación rápida:
+# python -m pip install -r requirements.txt
