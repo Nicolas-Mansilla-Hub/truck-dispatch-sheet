@@ -1,12 +1,12 @@
-# Smart Dispatcher – Logistics Scheduler and Tracker 🚛📊
+# Smart Dispatcher – Logistics Scheduler and Tracker
 
 This project simulates the daily operations of a Truck Traffic Coordinator, automating the scheduling and monitoring of routes via Google Sheets.
 
 ## Features
-- 🗓️ Route schedule tracking
-- 📍 GPS-based ETA validation
-- ✉️ Email alerts for late arrivals
-- 📊 Real-time data integration with Google Sheets
+- Route schedule tracking
+- GPS-based ETA validation
+- Email alerts for late arrivals
+- Real-time data integration with Google Sheets
 
 ## Tech Stack
 - Python
